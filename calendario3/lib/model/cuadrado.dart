@@ -6,5 +6,5 @@ class Cuadrado{
   String aula="";
   Color color;
   
-  Cuadrado(this.id, this.texto, this.color);
+  Cuadrado(this.id, this.texto, this.aula, this.color);
 }
